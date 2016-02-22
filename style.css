@@ -1,4 +1,16 @@
 p {
-    color: blue
-    
+    color: blue;
+   }
+
+.red {
+    color: red;
 }
+ 
+ .orange {
+     color: darkorange;
+ }  
+ .underline {
+     text-decoration: underline
+ }
+ 
+ 
