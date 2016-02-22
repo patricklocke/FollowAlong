@@ -9,8 +9,16 @@ p {
  .orange {
      color: darkorange;
  }  
+ .blue {
+     color: blue
+ }
+ }
  .underline {
      text-decoration: underline
  } 
+ .special-title {
+     text-transform: uppercase;
+     text-decoration: underline;
+ }
  
  
