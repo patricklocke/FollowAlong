@@ -1,25 +1,12 @@
-p {
-    color: blue;
-   }
-
-.red {
-    color: red;
+h1 {
+  color: red;
 }
- 
- .orange {
-     color: darkorange;
- }  
- .blue {
-     color: blue
- }
- }
- .underline {
-     text-decoration: underline
- } 
- .special-title {
-     text-transform: uppercase;
-     text-decoration: underline;
-     font-weight: bold;
- }
- 
- 
+p {
+  color: #0e10b2;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: #0e10b2;
+}
