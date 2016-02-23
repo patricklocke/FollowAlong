@@ -10,3 +10,20 @@ h2 {
 h3 {
   color: #0e10b2;
 }
+.important-block {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+.important-block p {
+  color: white;
+}
+.important-block ul#someid.some-class {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.important-block ul#someid.some-class li {
+  color: purple;
+  font-style: bold;
+}
